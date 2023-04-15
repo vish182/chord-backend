@@ -1,0 +1,7 @@
+gdown>=3.11
+lazycats
+librosa>=0.8
+numpy>=1.19
+scipy>=1.4
+tensorflow>=2.6
+vamp
